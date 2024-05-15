@@ -162,6 +162,10 @@
   text-decoration: none;
 }
 
+.events__more:hover {
+  color: #1f69c9;
+}
+
 .events__cover {
   flex-grow: 1;
   flex-shrink: 0;
@@ -236,9 +240,6 @@
 .staff {
   padding: 100px 0 140px;
   background-image: url(../images/staff_picks_background.jpg);
-  background-position: bottom;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 .staff__title {
@@ -397,7 +398,7 @@
 .footer {
   padding: 60px 102px 60px 80px;
   box-sizing: border-box;
-  background-color: #000;
+  background-color: #1f1f1f;
   color: #fff;
 }
 
@@ -430,7 +431,7 @@
   margin: 0 0 16px;
 }
 
-.footer__list-item_bottom {
+.footer__list-item:last-child {
   margin-bottom: 0;
 }
 
@@ -445,7 +446,13 @@
   text-decoration: none;
 }
 
+.footer__column-link:hover {
+  color: #c1c1c1;
+}
+
 .footer__social-icon {
+  height: 16px;
+  width: 16px;
   margin: auto;
 }
 
