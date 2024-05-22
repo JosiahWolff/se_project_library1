@@ -1,4 +1,4 @@
-# Project 1: Triple Peaks Library
+# Triple Peaks Library
 
 The Triple Peaks Library webpage is the first project in the Software Engineer program at TripleTen. It was created using HTML and CSS, based on a design brief.
 
@@ -8,3 +8,5 @@ The Triple Peaks Library webpage is the first project in the Software Engineer p
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
+
+### [Active Site](https://josiahwolff.github.io/se_project_library1/)
