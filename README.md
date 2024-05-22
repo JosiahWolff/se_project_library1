@@ -12,8 +12,14 @@ An intuitive navigation, allowing users to seamlessly explore the website while 
 - Positioning
 - Vertical stacking with z-index
 
+## Plans to improve
+
+-I would love to make this site a full-stack application adding the ability for users to create accounts.
+-I would also like to add a search section where the user can search for aritcles or books and view previews of them.
+-Also add to the calendar section, adding events and displaying the closest event.
+
 ### [Active Site](https://josiahwolff.github.io/se_project_library1/)
 
-## Pictures
+##
 
 ![image](https://github.com/JosiahWolff/se_project_library1/assets/134183204/5b485f57-057b-421e-b7ce-7de8b3701f2b)
