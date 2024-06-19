@@ -23,6 +23,7 @@ An intuitive navigation, allowing users to seamlessly explore the website while 
 ![image](https://github.com/JosiahWolff/se_project_library1/assets/134183204/5b485f57-057b-421e-b7ce-7de8b3701f2b)
 
 ## Links
-[Active Site](https://josiahwolff.github.io/se_project_library1/)
 
-[Demo](https://www.loom.com/share/544c4fe01f904f78aa8e2b7afb2d32bc?sid=306eb051-0248-4597-a51c-27ddf98e3665) 
+-[Active Site](https://josiahwolff.github.io/se_project_library1/)
+
+-[Demo](https://www.loom.com/share/544c4fe01f904f78aa8e2b7afb2d32bc?sid=306eb051-0248-4597-a51c-27ddf98e3665) 
